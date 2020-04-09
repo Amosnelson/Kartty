@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069617173267",
+    "firebase_url": "https://kartty-50400.firebaseio.com",
+    "project_id": "kartty-50400",
+    "storage_bucket": "kartty-50400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069617173267:android:eb62096375a9fee24100e6",
+        "android_client_info": {
+          "package_name": "com.example.kartty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069617173267-r4dfn9pdtkomar0dja7nnih2anj613ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kartty",
+            "certificate_hash": "576fb0357c992074bc896f62f3a1aef2e5a2a95c"
+          }
+        },
+        {
+          "client_id": "1069617173267-smbjor93tikrnj93pqmpkml9m0ed6b6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8Bw__RZy7tqGFoPNObEQjkCw4nJTmGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069617173267-smbjor93tikrnj93pqmpkml9m0ed6b6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
